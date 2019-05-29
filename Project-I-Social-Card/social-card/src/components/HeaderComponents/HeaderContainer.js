@@ -1,13 +1,12 @@
 import React from 'react';
 import './Header.css';
 
-
 function HeaderContainer () {
-    return (
-      <div>
-        <h1>HeaderContainer</h1>
-      </div>
-    );
-  }
+  return (
+    <div className = "Headercontainer">
 
-  export default HeaderContainer;
+    </div>
+  )
+}
+
+export default HeaderContainer;

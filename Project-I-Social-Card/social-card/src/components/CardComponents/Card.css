@@ -1,1 +1,9 @@
 /* All styles for your Card Components live here */
+
+.card1 {
+    text-align: right;
+}
+
+.image {
+    max-width: 500px;
+}

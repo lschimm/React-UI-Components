@@ -4,7 +4,7 @@ import './Card.css';
 function CardContainer () {
     return (
         <div className = "url">
-            <a href="https://www.reactjs.org">reactjs.org</a>
+            <a href="https://www.reactjs.org" className = "react-url">reactjs.org</a>
         </div>
     )
 }

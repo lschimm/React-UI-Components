@@ -1,8 +1,8 @@
-import React from 'react';
-import './Card.css';
+import React from 'react'
+import './Card.css'
 import CardContainer from './CardContainer'
 
-function CardContent () {
+export default function CardContent () {
     return (
         <div className="card-content">
             <h3>Get started with React</h3>
@@ -11,5 +11,3 @@ function CardContent () {
         </div>
     )
 }
-
-export default CardContent;

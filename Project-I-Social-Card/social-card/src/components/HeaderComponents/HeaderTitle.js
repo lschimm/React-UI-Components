@@ -1,14 +1,7 @@
-import React from 'react';
-import './Header.css';
+import React from 'react'
+import './Header.css'
 
-// const HeaderTitle = () => 
-//     return (
-//     <h3>LambdaSchool</h3>
-//         <h4>@LambdaSchool 26 jan</h4>
-//         )
-    
-
-function HeaderTitle () {
+export default function HeaderTitle () {
     return (
         <div className ="HeaderTitle">
             <h3>LambdaSchool @LambdaSchool 26 jan</h3>
@@ -16,4 +9,3 @@ function HeaderTitle () {
         </div>
     )
 }
-export default HeaderTitle;

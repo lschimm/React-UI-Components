@@ -1,12 +1,10 @@
-import React from 'react';
-import './Header.css';
+import React from 'react'
+import './Header.css'
 
-function HeaderContainer () {
+export default function HeaderContainer () {
   return (
     <div className = "Headercontainer">
 
     </div>
   )
 }
-
-export default HeaderContainer;

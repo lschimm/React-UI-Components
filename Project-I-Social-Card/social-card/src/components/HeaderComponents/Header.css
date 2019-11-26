@@ -1,1 +1,10 @@
 /* All styles for your header Components live here */
+
+.headers {
+    display: flex;
+}
+
+.logo {
+    height: 10%;
+    width: 10%;
+}

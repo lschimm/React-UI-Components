@@ -1,0 +1,26 @@
+.app {
+    font-family: sans-serif;
+    display: flex;
+    flex-direction: column;
+}
+
+.a123 {
+    display: flex;
+}
+
+.a456{
+    display: flex;
+}
+
+.a789 {
+    display: flex;
+}
+
+.clear1 {
+    display: flex;
+}
+
+.red {
+    background: darkred;
+    color: white;
+}

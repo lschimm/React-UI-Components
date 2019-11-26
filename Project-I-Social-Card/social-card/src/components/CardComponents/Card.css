@@ -1,1 +1,25 @@
 /* All styles for your Card Components live here */
+
+.card1 {
+    width: 89.8%;
+    text-align: left;
+    border: 1px solid lightgrey;
+    margin-left: 5rem;
+    border-radius: 5px;
+    font-size: 90%;
+}
+
+.image {
+    width: 540px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.react-url {
+    color: gray;
+    text-decoration: none;
+}
+
+.card-content {
+    padding: 0 3% 3%;
+}

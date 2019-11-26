@@ -5,6 +5,8 @@ import ImageThumbnail from './components/HeaderComponents/ImageThumbnail';
 import HeaderTitle from './components/HeaderComponents/HeaderTitle';
 import CardBanner from './components/CardComponents/CardBanner';
 import CardContent from './components/CardComponents/CardContent';
+import Footer from './components/FooterComponents/Footer.js'
+
 
 const App = () => {
   return (
@@ -16,6 +18,9 @@ const App = () => {
         <div className="card1">
         <CardBanner />
         <CardContent />
+        </div>
+        <div className="card3">
+          <Footer />
         </div>
     </div>
   );
